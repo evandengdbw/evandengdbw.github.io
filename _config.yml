@@ -22,9 +22,9 @@ owner:
   google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_verify: "JW0gdx05xcJSQe6saaq67u_U1vgdfuh8OxrjS-fEuyQ"
+# google_verify: "JW0gdx05xcJSQe6saaq67u_U1vgdfuh8OxrjS-fEuyQ"
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
@@ -35,8 +35,8 @@ links:
     url: /projects/
   - title: Publications
     url: /publications/
-  - title: Experience
-    url: /experience/
+  # - title: Experience
+  #   url: /experience/
 #   - title: Hobbies
 #     url: /hobbies/
 
