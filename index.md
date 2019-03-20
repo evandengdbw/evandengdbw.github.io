@@ -6,7 +6,22 @@ layout: page
 # Bangwen Deng
 
  
-The first year of a 3-year master program in Netlab of IIIS, Tsinghua University.
+State: The first year of a master program 
+
+Department: Netlab of IIIS, Tsinghua University.
+
+Supervisor:  [Wenfei Wu][supervisor]
+
+
+
+
+
+
+
+
+
+
+[supervisor]: http://wenfei-wu.github.io/
 
 
 
