@@ -10,9 +10,27 @@ pubs:
     address: "Budapest, Hungary"
     booktitle: "Proceedings of the {ACM} {SIGCOMM} 2018 Conference on Posters and
                Demos, {SIGCOMM} 2018, Budapest, Hungary, August 20-25, 2018"
-    url: redundant-logic-elimilation.pdf
+    <!-- url: redundant-logic-elimilation.pdf -->
     bibtex: DengW18.bib
 
+<!--   - title: Adaptive Checkpointing for Master-Worker Style Parallelism
+    author: "Gene Cooperman, Jason Ansel, Xiaoqin Ma"
+    booktitle: "IEEE Computer Society International Conference on Cluster Computing"
+    address: "Boston, MA"
+    month: Sep
+    year: 2005
+    type: Extended Abstract
+    url: 2005cluster.pdf
+    bibtex: 2005cluster.bib -->
+<!-- - key: "ansel:smart:2011"
+    author: "Jason Ansel"
+    title: "Autotuning Aspects of PetaBricks"
+    booktitle: "Workshop on Statistical, Machine Learning Approaches to Architecture, Compilation (SMART)"
+    keywords: "PetaBricks"
+    hidden: true
+    type: "Talk"
+    month: "April"
+    year: "2011" -->
 
 
 
