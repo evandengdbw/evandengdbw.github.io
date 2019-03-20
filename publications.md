@@ -3,15 +3,15 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
-  - author: "Bangwen Deng and Wenfei Wu"
+<!--   - author: "Bangwen Deng and Wenfei Wu"
     title: "Redundant Logic Elimination in Network Functions"
     month: "August"
     year: "2018"
     address: "Budapest, Hungary"
     booktitle: "Proceedings of the ACM SIGCOMM 2018 Conference on Posters and
                Demos"
-    <!-- url: "https://github.com/evandengdbw/evandengdbw.github.io/blob/master/publications/redundant-logic-elimination.pdf"  -->
-    bibtex: DengW18.bib
+    url: "https://github.com/evandengdbw/evandengdbw.github.io/blob/master/publications/redundant-logic-elimination.pdf" 
+    bibtex: DengW18.bib -->
 
 <!--   - title: Adaptive Checkpointing for Master-Worker Style Parallelism
     author: "Gene Cooperman, Jason Ansel, Xiaoqin Ma"
@@ -31,6 +31,18 @@ pubs:
     type: "Talk"
     month: "April"
     year: "2011" -->
+
+- key: "ding:mitcsail-tr:2014"
+    author: "Yufei Ding, Jason Ansel, Kalyan Veeramachaneni, Xipeng Shen, Una-May O'Reilly, Saman Amarasinghe"
+    month: "June"
+    year: "2014"
+    title: "Autotuning Algorithmic Choice for Input Sensitivity"
+    url: "http://groups.csail.mit.edu/commit/papers/2014/MIT-CSAIL-TR-2014-014.pdf"
+    keywords: "PetaBricks"
+    number: "MIT/CSAIL Technical Report MIT-CSAIL-TR-2014-014"
+    type: "Technical Report"
+    address: "Cambridge, MA"
+    institution: "Massachusetts Institute of Technology"
 
 
 
