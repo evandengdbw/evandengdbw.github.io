@@ -26,8 +26,6 @@ Email: dbw18@mails.tsinghua.edu.cn
 - Major Course: Data Structure, Algorithms, Operating System, Computer Networking and so on
 
 
-
-
 [supervisor]: http://wenfei-wu.github.io/
 
 
