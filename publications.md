@@ -192,15 +192,6 @@ pubs:
     url: "http://groups.csail.mit.edu/commit/papers/2009/ansel-ipdps09.pdf"
     slides: "http://groups.csail.mit.edu/commit/papers/2009/ansel-ipdps09-slides.pdf"
 
-  - key: "olszewski:asplos:2009"
-    title: "Kendo: Efficient Deterministic Multithreading in Software"
-    author: "Marek Olszewski, Jason Ansel, Saman Amarasinghe"
-    booktitle: "The International Conference on Architectural Support for Programming Languages, Operating Systems"
-    address: "Washington, DC"
-    month: "Mar"
-    year: "2009"
-    url: "http://groups.csail.mit.edu/commit/papers/09/asplos073-olszewski.pdf"
-    keywords: "Kendo"
 
   - author: "Bangwen Deng and Wenfei Wu"
     title: "Redundant Logic Elimination in Network Functions"
