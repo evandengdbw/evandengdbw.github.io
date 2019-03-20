@@ -3,17 +3,6 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
-  - key: "ding:pldi:2015"
-    author: "Yufei Ding, Jason Ansel, Kalyan Veeramachaneni, Xipeng Shen, Una-May O’Reilly, Saman Amarasinghe"
-    title: "Autotuning Algorithmic Choice for Input Sensitivity"
-    url: "http://groups.csail.mit.edu/commit/papers/2015/yding-pldi15-pbinput.pdf"
-    keywords: "OpenTuner"
-    month: "June"
-    year: "2015"
-    address: "Portland, Oregon"
-    booktitle: "ACM SIGPLAN Conference on Programming Language Design, Implementation"
-
-
 
   - author: "Bangwen Deng and Wenfei Wu"
     title: "Redundant Logic Elimination in Network Functions"
