@@ -8,9 +8,9 @@ pubs:
     month: "August"
     year: "2018"
     address: "Budapest, Hungary"
-    booktitle: "Proceedings of the {ACM} {SIGCOMM} 2018 Conference on Posters and
-               Demos, {SIGCOMM} 2018, Budapest, Hungary, August 20-25, 2018"
-    <!-- url: redundant-logic-elimilation.pdf -->
+    booktitle: "Proceedings of the ACM SIGCOMM 2018 Conference on Posters and
+               Demos"
+    url: https://github.com/evandengdbw/evandengdbw.github.io/blob/master/publications/redundant-logic-elimination.pdf
     bibtex: DengW18.bib
 
 <!--   - title: Adaptive Checkpointing for Master-Worker Style Parallelism
