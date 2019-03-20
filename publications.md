@@ -10,7 +10,7 @@ pubs:
     address: "Budapest, Hungary"
     booktitle: "Proceedings of the ACM SIGCOMM 2018 Conference on Posters and
                Demos"
-    url: "https://github.com/evandengdbw/evandengdbw.github.io/blob/master/publications/redundant-logic-elimination.pdf " 
+    <!-- url: "https://github.com/evandengdbw/evandengdbw.github.io/blob/master/publications/redundant-logic-elimination.pdf"  -->
     bibtex: DengW18.bib
 
 <!--   - title: Adaptive Checkpointing for Master-Worker Style Parallelism
@@ -38,7 +38,7 @@ pubs:
 
 # Publications
 
-{% for pub in page.pubs %}
+<!-- {% for pub in page.pubs %}
 {% unless pub.hidden %}
   - {% if pub.url %} [{{pub.title}}]({{pub.url}}).
     {% else %} {{pub.title}}.
@@ -53,7 +53,7 @@ pubs:
     {% endif %}{% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).
     {% endif %}
 {% endunless %}
-{% endfor %}
+{% endfor %} -->
 
 
 
