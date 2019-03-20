@@ -209,7 +209,7 @@ pubs:
     address: "Budapest, Hungary"
     booktitle: "Proceedings of the ACM SIGCOMM 2018 Conference on Posters and
                Demos"
-    url: "https://github.com/evandengdbw/evandengdbw.github.io/blob/master/publications/redundant-logic-elimination.pdf" 
+    url: redundant-logic-elimination.pdf
     bibtex: DengW18.bib
 
   
