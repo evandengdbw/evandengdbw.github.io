@@ -3,16 +3,6 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
-  - author: "Daniel Haas, Jason Ansel, Lydia Gu, Adam Marcus"
-    title: "Argonaut: Macrotask Crowdsourcing for Complex Data Processing"
-    keywords: "Locu"
-    month: "September"
-    year: "2015"
-    address: "Kohala Coast, Hawaii"
-    booktitle: "International Conference on Very Large Data Bases"
-    url: 2015vldb-argonaut.pdf
-    bibtex: 2015vldb-argonaut.bib
-
   - key: "ding:pldi:2015"
     author: "Yufei Ding, Jason Ansel, Kalyan Veeramachaneni, Xipeng Shen, Una-May O’Reilly, Saman Amarasinghe"
     title: "Autotuning Algorithmic Choice for Input Sensitivity"
@@ -130,14 +120,6 @@ pubs:
     keywords: "SFI"
     url: "http://groups.csail.mit.edu/commit/papers/2011/ansel-pldi11-nacljit.pdf"
 
-  - key: "olszewski:wodet:2011"
-    author: "Marek Olszewski, Jason Ansel, Saman Amarasinghe"
-    title: "Scaling Deterministic Multithreading"
-    keywords: "Kendo"
-    month: "Mar"
-    year: "2011"
-    booktitle: "Workshop on Determinism, Correctness in Parallel Programming (WoDet)"
-    address: "Newport Beach, CA"
 
   - key: "ansel:cgo:2011"
     title: "Language and Compiler Support for Auto-Tuning Variable-Accuracy Algorithms"
@@ -177,15 +159,6 @@ pubs:
     address: "Cambridge, MA"
     institution: "Massachusetts Institute of Technology"
 
-  - key: "ansel:ms-thesis:2009"
-    author: "Jason Ansel"
-    month: "Sep"
-    year: "2009"
-    title: "PetaBricks: A Language, Compiler for Algorithmic Choice"
-    keywords: "PetaBricks"
-    type: "S.M. Thesis"
-    address: "Cambridge, MA"
-    school: "Massachusetts Institute of Technology"
 
   - key: "chan:sc:2009"
     title: "Autotuning Multigrid with PetaBricks"
@@ -229,43 +202,7 @@ pubs:
     url: "http://groups.csail.mit.edu/commit/papers/09/asplos073-olszewski.pdf"
     keywords: "Kendo"
 
-  - title: "Transparent User-Level Checkpointing for the Native POSIX Thread Library for Linux"
-    author: "Michael Rieker, Jason Ansel, Gene Cooperman"
-    booktitle: "The International Conference on Parallel and Distributed Processing Techniques and Applications"
-    address: "Las Vegas, NV"
-    month: Jun
-    year: 2006
-    url: 2006pdpta.pdf
-    bibtex: 2006pdpta.bib
-
-  - title: Transparent Adaptive Library-Based Checkpointing for Master-Worker Style Parallelism
-    author: "Gene Cooperman, Jason Ansel, Xiaoqin Ma"
-    booktitle: "IEEE International Symposium on Cluster Computing and the Grid"
-    address: "Singapore"
-    month: May
-    year: 2006
-    url: 2006ccgrid.pdf
-    bibtex: 2006ccgrid.bib
-
-  - title: Adaptive Checkpointing for Master-Worker Style Parallelism
-    author: "Gene Cooperman, Jason Ansel, Xiaoqin Ma"
-    booktitle: "IEEE Computer Society International Conference on Cluster Computing"
-    address: "Boston, MA"
-    month: Sep
-    year: 2005
-    type: Extended Abstract
-    url: 2005cluster.pdf
-    bibtex: 2005cluster.bib
-
-  - key: "ansel:smart:2011"
-    author: "Jason Ansel"
-    title: "Autotuning Aspects of PetaBricks"
-    booktitle: "Workshop on Statistical, Machine Learning Approaches to Architecture, Compilation (SMART)"
-    keywords: "PetaBricks"
-    hidden: true
-    type: "Talk"
-    month: "April"
-    year: "2011"
+  
 
 
 ---
