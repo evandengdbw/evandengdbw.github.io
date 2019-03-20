@@ -1,20 +1,20 @@
-title: Jason Ansel
+title: Bangwen Deng
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url: http://jasonansel.com
+url: http://evandengdbw.github.io
 
 # Owner/author information
 owner:
-  name:           Jason Ansel
-  avatar:         jasonansel.jpg
+  name:           Bangwen Deng
+  avatar:         bangwen.jpg
 #  bio:
-  email:          jasonansel@jasonansel.com
+  email:          evandbw@163.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   facebook:
-  github: jansel
-  linkedin: jansel
+  github: evandengdbw
+  linkedin: evandeng
   instagram:
   lastfm:
   tumblr:
@@ -41,7 +41,7 @@ links:
     url: /hobbies/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: America/New_York
+timezone: China/Beijing
 future: true
 pygments: true
 #markdown: kramdown
