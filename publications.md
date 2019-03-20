@@ -38,7 +38,7 @@ pubs:
 
 # Publications
 
-<!-- {% for pub in page.pubs %}
+{% for pub in page.pubs %}
 {% unless pub.hidden %}
   - {% if pub.url %} [{{pub.title}}]({{pub.url}}).
     {% else %} {{pub.title}}.
@@ -53,7 +53,7 @@ pubs:
     {% endif %}{% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).
     {% endif %}
 {% endunless %}
-{% endfor %} -->
+{% endfor %}
 
 
 
