@@ -13,8 +13,14 @@ pubs:
                Demos"
     url: redundant-logic-elimination.pdf
     bibtex: DengW18.bib
-
-  
+  - author: "Bangwen Deng, Wenfei Wu, Linhai Song"
+    title: "NFReducer: Redundant Logic Elimination in Network Functions"
+    month: "January"
+    year: "2020"
+    address: ""
+    booktitle: "the ACM Symposium on SDN Research"
+    url: 
+    bibtex: 
 
 
 ---
