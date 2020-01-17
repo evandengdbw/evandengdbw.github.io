@@ -13,16 +13,15 @@ Email: dbw18@mails.tsinghua.edu.cn
   
 **09/2018 – Present  Tsinghua University | Beijing, China**
 - A 3-year Master Program
-- Department:	Network Lab of IIIS, Tsinghua University  
+- Department:	Institute of Interdisciplinary Information Science  
 - Supervisor:	[Wenfei Wu][supervisor]
-- Research Interests:	SDN, NFV, NF Optimization based on Software Analyzing
+- Research Interests:	SDN, NFV, NF Optimization based on Software Analyzing, Network Data Analysis
 
 
 ## Academic Experience
 
 **09/2014-06/2018  Nankai University | Tianjin, China**
-- Major: Computer Science
-- Degree: Bachelor of Science in Nankai University 
+- Bachelor of Computer Science.
 - Major Course: Data Structure, Algorithms, Operating System, Computer Networking and so on
 
 
