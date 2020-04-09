@@ -17,10 +17,10 @@ pubs:
     title: "NFReducer: Redundant Logic Elimination in Network Functions"
     month: "March"
     year: "2020"
-    address: ""
+    address: "San Jose, CA, USA"
     booktitle: "The ACM Symposium on SDN Research (ACM SOSR 2020)"
     url: NFReducer-SOSR20.pdf
-    bibtex: 
+    bibtex: NFReducer-SOSR20.bib
 
 
 ---
