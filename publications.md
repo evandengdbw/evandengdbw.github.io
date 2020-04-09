@@ -15,11 +15,11 @@ pubs:
     bibtex: DengW18.bib
   - author: "Bangwen Deng, Wenfei Wu, Linhai Song"
     title: "NFReducer: Redundant Logic Elimination in Network Functions"
-    month: "January"
+    month: "March"
     year: "2020"
     address: ""
-    booktitle: "the ACM Symposium on SDN Research"
-    url: 
+    booktitle: "The ACM Symposium on SDN Research (ACM SOSR 2020)"
+    url: NFReducer-SOSR20.pdf
     bibtex: 
 
 
