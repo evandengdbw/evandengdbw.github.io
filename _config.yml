@@ -31,8 +31,8 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Projects
-    url: /projects/
+  # - title: Projects
+  #   url: /projects/
   - title: Publications
     url: /publications/
   # - title: Experience
