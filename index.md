@@ -11,7 +11,9 @@ Email: dbw18@mails.tsinghua.edu.cn
 
 ## About Me
 
-Hi, this is Bangwen. I am purchasing my CS master degree in IIIS, Tsinghua University and got my CS bachelor degree in 2018, in Nankai University. 
+Hi! This is Bangwen. 
+
+I am a third-year student purchasing my CS master degree in IIIS, Tsinghua University. And I got my CS bachelor degree in 2018, in Nankai University. 
 
 My research supervisor is [Wenfei Wu][supervisor]. And my research interests are SDN, NFV, AIOps. All of you are welcome to contact to me.
   
