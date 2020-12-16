@@ -3,16 +3,14 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
-
-  - author: "Bangwen Deng and Wenfei Wu"
-    title: "Redundant Logic Elimination in Network Functions"
-    month: "August"
-    year: "2018"
-    address: "Budapest, Hungary"
-    booktitle: "Proceedings of the ACM SIGCOMM 2018 Conference on Posters and
-               Demos"
-    url: redundant-logic-elimination.pdf
-    bibtex: DengW18.bib
+  - author: "\textbf{Bangwen Deng}, Wenfei Wu, Linhai Song"
+    title: "NFReducer: Redundant Logic Elimination in Network Functions"
+    <!-- month: "March" -->
+    <!-- year: "2020" -->
+    <!-- address: "San Jose, CA, USA" -->
+    booktitle: "IEEE International Conference on Computer Communications(INFOCOM 2021)"
+    <!-- url: NFReducer-SOSR20.pdf -->
+    <!-- bibtex: NFReducer-SOSR20.bib -->
   - author: "Bangwen Deng, Wenfei Wu, Linhai Song"
     title: "NFReducer: Redundant Logic Elimination in Network Functions"
     month: "March"
@@ -21,6 +19,15 @@ pubs:
     booktitle: "The ACM Symposium on SDN Research (ACM SOSR 2020)"
     url: NFReducer-SOSR20.pdf
     bibtex: NFReducer-SOSR20.bib
+  - author: "Bangwen Deng and Wenfei Wu"
+    title: "Redundant Logic Elimination in Network Functions"
+    month: "August"
+    year: "2018"
+    address: "Budapest, Hungary"
+    booktitle: "In Proceedings of the ACM SIGCOMM 2018 Conference on Posters and
+               Demos"
+    url: redundant-logic-elimination.pdf
+    bibtex: DengW18.bib
 
 
 ---
