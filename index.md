@@ -47,7 +47,7 @@ Email: dbw18@mails.tsinghua.edu.cn
 	<small>*In Proceedings of the 2020 Symposium on Modelling, Analysis, and Simulation of Computer and Telecommunication Systems(IEEE MASCOTS 2020)*. 2020.</small>
 - **NFReducer: Redundant Logic Elimination in Network Functions**. <br>
 	<small>**Bangwen Deng**, Wenfei Wu, and Linhai Song</small> <br>
-	<small>* In the ACM Symposium on SDN Research (ACM SOSR 2020)*. 2020.</small>
+	<small>*In the ACM Symposium on SDN Research (ACM SOSR 2020)*. 2020.</small>
 - **Redundant Logic Elimination in Network Functions**. <br>
 	<small>**Bangwen Deng**, and Wenfei Wu </small><br>
 	<small>*In Proceedings of the ACM SIGCOMM 2018 Conference on Posters and Demos*. 2018. </small>
