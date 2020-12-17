@@ -17,9 +17,6 @@ Email: dbw18@mails.tsinghua.edu.cn
 
  My supervisor is [Wenfei Wu](http://wenfei-wu.github.io/), and my research interests are SDN, NFV, AIOps.
 
- 
-
-
   
 <!-- **09/2018 – Present  Tsinghua University | Beijing, China**
 - A 3-year Master Program
@@ -37,7 +34,23 @@ Email: dbw18@mails.tsinghua.edu.cn
 
 [supervisor]: http://wenfei-wu.github.io/
 
+### Publications
 
+- **NFOpt: Eliminating Redundant Logic in NF Programs using Operation-Time Configurations**. <br>
+	<small>**Bangwen Deng**, and Wenfei Wu </small><br>
+	<small>*In IEEE International Conference on Computer Communications(IEEE INFOCOM 2021)*. 2021.</small>
+- **NFD: A Development Framework for Cross-Platform Network Functions**. <br>
+	<small>Hongyi Huang, Yongchao He, **Bangwen Deng**, Wenfei Wu, Ying Zhang, Yongqiang Xiong, Guo Chen, Yong Cui, and Peng Cheng </small><br>
+	<small>*In IEEE International Conference on Computer Communications(IEEE INFOCOM 2021)*. 2021.</small>
+- **Symbolic Execution for Network Functions with Time-Driven Logic**. <br>
+	<small>Harsha Sharma, Wenfei Wu, and **Bangwen Deng** </small><br>
+	<small>*In: Proceedings of the 2020 Symposium on Modelling, Analysis, and Simulation of Computer and Telecommunication Systems(IEEE MASCOTS 2020)*. 2020.</small>
+- **NFReducer: Redundant Logic Elimination in Network Functions**. <br>
+	<small>**Bangwen Deng**, Wenfei Wu, and Linhai Song</small> <br>
+	<small>*The ACM Symposium on SDN Research (ACM SOSR 2020)*. 2020.</small>
+- **Redundant Logic Elimination in Network Functions**. <br>
+	<small>**Bangwen Deng**, and Wenfei Wu </small><br>
+	<small>*In Proceedings of the ACM SIGCOMM 2018 Conference on Posters and Demos*. 2018. </small>
 
 
 
