@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: CV
 pubs:
   - author: "**Bangwen Deng**, and Wenfei Wu"
     title: "*NFOpt: Eliminating Redundant Logic in NF Programs using Operation-Time Configurations*"

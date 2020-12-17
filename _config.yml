@@ -33,12 +33,14 @@ links:
     url: /
   # - title: Projects
   #   url: /projects/
-  - title: Publications
-    url: /publications
+  # - title: Publications
+  #   url: /publications/
   # - title: Experience
   #   url: /experience/
-#   - title: Hobbies
-#     url: /hobbies/
+  # - title: Hobbies
+  #   url: /hobbies/
+  - title: CV
+    url: /publications/resume-en.pdf
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing

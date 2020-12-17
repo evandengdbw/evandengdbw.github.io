@@ -15,7 +15,7 @@ Email: dbw18@mails.tsinghua.edu.cn
 
  I am a third-year student purchasing my CS master degree in NetLab, IIIS, Tsinghua University, and plan to graduate in July, 2021. I received my CS bachelor degree in 2018, in Nankai University. 
 
- My supervisor is [Wenfei Wu](http://wenfei-wu.github.io/), and my research interests are SDN, NFV, AIOps.
+ My supervisor is [Wenfei Wu](http://wenfei-wu.github.io/), and my research interests are <u>SDN</u>, <u>NFV</u>, <u>AIOps</u>.
 
   
 <!-- **09/2018 – Present  Tsinghua University | Beijing, China**
@@ -36,18 +36,18 @@ Email: dbw18@mails.tsinghua.edu.cn
 
 ### Publications
 
-- **NFOpt: Eliminating Redundant Logic in NF Programs using Operation-Time Configurations**. <br>
+- [<font color=red>NEW</font>]**NFOpt: Eliminating Redundant Logic in NF Programs using Operation-Time Configurations**. <br>
 	<small>**Bangwen Deng**, and Wenfei Wu </small><br>
-	<small>*In IEEE International Conference on Computer Communications(IEEE INFOCOM 2021)*. 2021.</small>
-- **NFD: A Development Framework for Cross-Platform Network Functions**. <br>
+	<small>*In IEEE International Conference on Computer Communications(IEEE INFOCOM 2021)*. 2021. To appear.</small>
+- [<font color=red>NEW</font>]**NFD: A Development Framework for Cross-Platform Network Functions**. <br>
 	<small>Hongyi Huang, Yongchao He, **Bangwen Deng**, Wenfei Wu, Ying Zhang, Yongqiang Xiong, Guo Chen, Yong Cui, and Peng Cheng </small><br>
-	<small>*In IEEE International Conference on Computer Communications(IEEE INFOCOM 2021)*. 2021.</small>
+	<small>*In IEEE International Conference on Computer Communications(IEEE INFOCOM 2021)*. 2021. To appear.</small>
 - **Symbolic Execution for Network Functions with Time-Driven Logic**. <br>
 	<small>Harsha Sharma, Wenfei Wu, and **Bangwen Deng** </small><br>
-	<small>*In: Proceedings of the 2020 Symposium on Modelling, Analysis, and Simulation of Computer and Telecommunication Systems(IEEE MASCOTS 2020)*. 2020.</small>
+	<small>*In Proceedings of the 2020 Symposium on Modelling, Analysis, and Simulation of Computer and Telecommunication Systems(IEEE MASCOTS 2020)*. 2020.</small>
 - **NFReducer: Redundant Logic Elimination in Network Functions**. <br>
 	<small>**Bangwen Deng**, Wenfei Wu, and Linhai Song</small> <br>
-	<small>*The ACM Symposium on SDN Research (ACM SOSR 2020)*. 2020.</small>
+	<small>* In the ACM Symposium on SDN Research (ACM SOSR 2020)*. 2020.</small>
 - **Redundant Logic Elimination in Network Functions**. <br>
 	<small>**Bangwen Deng**, and Wenfei Wu </small><br>
 	<small>*In Proceedings of the ACM SIGCOMM 2018 Conference on Posters and Demos*. 2018. </small>
