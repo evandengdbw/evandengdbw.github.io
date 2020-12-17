@@ -15,7 +15,7 @@ Hi! This is Bangwen Deng.
 
 I am a third-year student purchasing my CS master degree in IIIS, Tsinghua University. I got my CS bachelor degree in 2018, in Nankai University. 
 
-My research supervisor is [Wenfei Wu][supervisor], and my research interests are SDN, NFV, AIOps. Please feel free to contact me.
+My supervisor is [Wenfei Wu][supervisor], and my research interests are SDN, NFV, AIOps. Please feel free to contact me.
   
 <!-- **09/2018 – Present  Tsinghua University | Beijing, China**
 - A 3-year Master Program

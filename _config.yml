@@ -29,7 +29,7 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: Home
     url: /
   # - title: Projects
   #   url: /projects/
