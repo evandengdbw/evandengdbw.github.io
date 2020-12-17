@@ -9,13 +9,17 @@ layout: page
 Email: dbw18@mails.tsinghua.edu.cn
 
 
-## About Me
+### About Me
 
-Hi! This is Bangwen Deng. 
+ Hi! This is Bangwen Deng.
 
-I am a third-year student purchasing my CS master degree in IIIS, Tsinghua University. I got my CS bachelor degree in 2018, in Nankai University. 
+ I am a third-year student purchasing my CS master degree in NetLab, IIIS, Tsinghua University, and plan to graduate in July, 2021. I received my CS bachelor degree in 2018, in Nankai University. 
 
-My supervisor is [Wenfei Wu][supervisor], and my research interests are SDN, NFV, AIOps. Please feel free to contact me.
+ My supervisor is [Wenfei Wu](http://wenfei-wu.github.io/), and my research interests are SDN, NFV, AIOps.
+
+ 
+
+
   
 <!-- **09/2018 – Present  Tsinghua University | Beijing, China**
 - A 3-year Master Program
@@ -32,6 +36,8 @@ My supervisor is [Wenfei Wu][supervisor], and my research interests are SDN, NFV
  -->
 
 [supervisor]: http://wenfei-wu.github.io/
+
+
 
 
 
