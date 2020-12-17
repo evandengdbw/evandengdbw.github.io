@@ -2,7 +2,7 @@ title: Bangwen Deng
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url: http://evandengdbw.github.io
+url: 
 
 # Owner/author information
 owner:
@@ -34,7 +34,7 @@ links:
   # - title: Projects
   #   url: /projects/
   - title: Publications
-    url: /publications/
+    url: /publications
   # - title: Experience
   #   url: /experience/
 #   - title: Hobbies
@@ -44,8 +44,8 @@ links:
 timezone: China/Beijing
 future: true
 pygments: true
-#markdown: kramdown
-markdown: redcarpet
+markdown: kramdown
+# markdown: redcarpet
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
@@ -67,4 +67,4 @@ kramdown:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-
+gems: [jekyll-paginate]

@@ -1,0 +1,44 @@
+I"j<h2 id="internship">INTERNSHIP</h2>
+
+<h3 id="large-scale-optical-modules-failure-prediction">Large-scale Optical Modules Failure Prediction.</h3>
+<p><strong><em>11/2019 - Present | Tencent, Beijing, China</em></strong></p>
+<ul>
+  <li>As a Data Engineer working on the project of large-scale optical modules failure prediction.</li>
+  <li><strong><em>Job Description</em></strong>: By collecting, analyzing and processing the past failure cases from the company, we design an efficient machine learning model with a reasonable inference time to predict the large-scale optical modules failure. The model is under-developing.</li>
+</ul>
+
+<h2 id="research-projects">Research Projects</h2>
+
+<h3 id="nfreducer-redundant-logic-elimination-in-network-functions">NFReducer: Redundant Logic Elimination in Network Functions</h3>
+<p><strong><em>3/2018 - 11/2019 | Net Lab of IIIS, Tsinghua University, Beijing</em></strong></p>
+<ul>
+  <li><strong><em>Description</em></strong> : We identify a set of runtime redundant logic in NFs, and propose to use runtime configurations to eliminate them. We implement the system named NFReducer using LLVM and use program analysis techniques such as program slicing, constant propagation, and dead code elimination to make the redundancy elimination optimization.</li>
+  <li><strong><em>State</em></strong>: Paper accepted by ACM SOSR 2020. Poster accepted by the SIGCOMM’18 poster and demo program.</li>
+</ul>
+
+<h3 id="symbolic-execution-for-network-functions-with-time-driven-logic">Symbolic Execution for Network Functions with Time-Driven Logic</h3>
+<p><strong><em>5/2019 – 11/2019 | Net Lab of IIIS, Tsinghua University, Beijing</em></strong></p>
+<ul>
+  <li><strong><em>Descriptions</em></strong>: We propose that NF modeling language should include time-driven logic to perform complete verification and avoid false positive/negative results. In this project, we define primitives to express time-driven logic in NF modeling language and further develop a symbolic execution engine NF-SE to verify such logic for multiple packets.</li>
+  <li><strong><em>State</em></strong>: Working for improvement.</li>
+</ul>
+
+<h3 id="nfd-using-behavior-models-to-develop-cross-platform-nfs">NFD: Using Behavior Models to Develop Cross-Platform NFs</h3>
+<p><strong><em>03/2018 – 11/2019 | Net Lab of IIIS, Tsinghua University, Beijing</em></strong></p>
+<ul>
+  <li><strong><em>Description</em></strong> : This project is related to NFV (Network Function Virtualization). We designed a table-form model to describe a variety of NF programs and proposed NFD compiler that takes NF models as input to automatically generate NFs runnable executables integrated with the features of target platform such as OpenNF and Intel SGX.</li>
+  <li><strong><em>State</em></strong>: Under review.</li>
+</ul>
+
+<!-- # Side Projects -->
+
+<!-- # Open Source Contributions -->
+
+<!-- [ShowDB]: https://github.com/jansel/showdb
+[LendingClubChecker]: https://github.com/jansel/lendingclubchecker
+[OpenTuner]: http://opentuner.org/
+[PetaBricks]: http://projects.csail.mit.edu/petabricks/
+[Kendo]: http://projects.csail.mit.edu/kendo/
+[DMTCP]: http://dmtcp.sourceforge.net/ -->
+
+:ET

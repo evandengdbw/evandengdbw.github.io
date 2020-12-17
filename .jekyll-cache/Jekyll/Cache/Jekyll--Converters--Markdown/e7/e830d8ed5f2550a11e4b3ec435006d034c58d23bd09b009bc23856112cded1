@@ -1,0 +1,68 @@
+I"#
+<h1 id="work-experience">Work Experience</h1>
+
+<h3 id="godaddy-2013-">GoDaddy (2013-)</h3>
+<ul>
+  <li>Director of Engineering</li>
+  <li>Continuing work in Locu (<a href="http://allthingsd.com/20130819/godaddy-acquires-merchant-finder-startup-locu-for-70-million/">acquired by GoDaddy</a>, August 2013)</li>
+</ul>
+
+<h3 id="locu-2011-2013">Locu (2011-2013)</h3>
+<ul>
+  <li>Designed and implemented machine learning algorithms for extracting semantic information from unstructured web content</li>
+  <li>Created auto-scaling compute and storage infrastructure</li>
+  <li>First non-founder employee of start-up</li>
+</ul>
+
+<h3 id="google-2010">Google (2010)</h3>
+<ul>
+  <li>Added support for self-modifying code to Native Client in Chrome (<a href="http://groups.csail.mit.edu/commit/papers/2011/ansel-pldi11-nacljit.pdf">PLDI Paper</a>)</li>
+  <li>Ported the V8 JIT compiler to run inside of Native Client</li>
+</ul>
+
+<h3 id="reveal-imaging-technologies-2009">Reveal Imaging Technologies (2009)</h3>
+<ul>
+  <li>Optimized algorithms for estimating object mass from multi-view X-ray data</li>
+</ul>
+
+<h3 id="advanced-micro-devices-2007">Advanced Micro Devices (2007)</h3>
+<ul>
+  <li>Designed and implemented HLSL compiler for ATI graphics cards</li>
+</ul>
+
+<h3 id="reveal-imaging-technologies-2005-2007">Reveal Imaging Technologies (2005-2007)</h3>
+<ul>
+  <li>Designed and implemented distributed system for testing explosive detection algorithms</li>
+  <li>Parallelized computer tomography reconstruction algorithms using a multi-node/multi-processor system</li>
+</ul>
+
+<h3 id="bluefin-robotics-2004">Bluefin Robotics (2004)</h3>
+<ul>
+  <li>Automated the install process of Debian GNU/Linux and navigation/control
+software on autonomous underwater vehicles</li>
+</ul>
+
+<h3 id="childrens-hospital-boston-2001-2003">Children’s Hospital Boston (2001-2003)</h3>
+<ul>
+  <li>Web based software to monitor referring physicians</li>
+</ul>
+
+<h3 id="corporate-communications-1998-2001">Corporate Communications (1998-2001)</h3>
+<ul>
+  <li>Web development in PHP/SQL</li>
+</ul>
+
+<h1 id="academic-experience">Academic Experience</h1>
+
+<h3 id="massachusetts-institute-of-technology-2007-2009-ms-2009-2014-phd">Massachusetts Institute of Technology (2007-2009: MS; 2009-2014: PhD)</h3>
+<ul>
+  <li>Teaching Assistant: <em>6.035 Computer Language Engineering</em> (Fall 2010)</li>
+  <li>Research Assistant (2007-2013)</li>
+</ul>
+
+<h3 id="northeastern-university-2002-2007-bs">Northeastern University (2002-2007: BS)</h3>
+<ul>
+  <li>Tutor: <em>Fundamentals of Computer Science</em> course (Fall 2003)</li>
+</ul>
+
+:ET
